@@ -10,6 +10,4 @@ For this project, I will need to build relational data models and DAX measures t
 
 The created dashboards are to be used by the CEO, CFO and Marketing Director.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+{% include image.html url="http://www.prexels.com" image="projects/proj-1/charts1.jpg" %}
