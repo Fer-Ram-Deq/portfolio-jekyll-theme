@@ -3,7 +3,7 @@ layout: post
 title: 'Project Two'
 ---
 
-**Using Business Intelligence to detect trends in research**
+**Using Business Intelligence to detect trends in Clinical Research**
 
 The second Project I am working on consists in developing a dashboard where research leaders in the company can access relevant clinical trials and get insights into which research fields are trending. 
 
